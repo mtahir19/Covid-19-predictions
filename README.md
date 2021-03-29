@@ -3,7 +3,7 @@
 - [Executive Summary](#Executive-Summary)
 - [project-5-part1.ipynb contents](#project-5-part1.ipynb-contents)
 - [External Research](#External-Research)
-- [Conclusions & Recommendations](#Conclusions-&-Future Steps)
+- [Summary & Outlook](#Conclusions-&-Future Steps)
 - [Data Sources](#Data-Sources)
 
 ---
